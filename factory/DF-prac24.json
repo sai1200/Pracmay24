@@ -1,0 +1,9 @@
+{
+	"name": "DF-prac24",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34cbae76-1d9e-479f-b926-4d44662f0731",
+		"tenantId": "f8355b15-ec8e-4cac-9097-a5aad83cdf22"
+	}
+}
